@@ -1,0 +1,97 @@
+
+Command run: my-tweets 
+
+Tweet 0: Will the Dems and Fake News ever learn? This is classic! https://t.co/kSX3ROI4QG
+Created Thu Jul 19 18:14:25 +0000 2018
+
+Tweet 1: “Trump recognized Russian Meddling MANY TIMES” https://t.co/T8MERS93wI
+Created Thu Jul 19 13:35:21 +0000 2018
+
+Tweet 2: ....proliferation, cyber attacks, trade, Ukraine, Middle East peace, North Korea and more. There are many answers,… https://t.co/XMB2qEeCck
+Created Thu Jul 19 13:30:11 +0000 2018
+
+Tweet 3: The Summit with Russia was a great success, except with the real enemy of the people, the Fake News Media. I look f… https://t.co/Au7K2BZjiZ
+Created Thu Jul 19 13:24:58 +0000 2018
+
+Tweet 4: I told you so! The European Union just slapped a Five Billion Dollar fine on one of our great companies, Google. Th… https://t.co/ld8pqIXjlB
+Created Thu Jul 19 13:11:17 +0000 2018
+
+Tweet 5: Really big jobs meeting today at the White House! 3 P.M.
+Created Thu Jul 19 11:37:25 +0000 2018
+
+Tweet 6: “Trump recognized Russian Meddling MANY TIMES.” Thank you to @foxandfriends and @FoxNews for actually showing the c… https://t.co/PX8GXYJpjt
+Created Thu Jul 19 11:13:48 +0000 2018
+
+Tweet 7: The Fake News Media wants so badly to see a major confrontation with Russia, even a confrontation that could lead t… https://t.co/hoqBikzUda
+Created Thu Jul 19 10:59:26 +0000 2018
+
+Tweet 8: The Fake News Media is going Crazy! They make up stories without any backup, sources or proof. Many of the stories… https://t.co/CLqVcJuuXz
+Created Thu Jul 19 10:37:57 +0000 2018
+
+Tweet 9: The Democrats have a death wish, in more ways than one - they actually want to abolish ICE. This should cost them h… https://t.co/a7Kf1htnav
+Created Thu Jul 19 10:29:15 +0000 2018
+
+Tweet 10: Thank you to Novartis for not increasing your prices on prescription drugs. Likewise to Pfizer. We are making a big… https://t.co/n6N7n3hQl7
+Created Thu Jul 19 10:23:14 +0000 2018
+
+Tweet 11: A total disgrace that Turkey will not release a respected U.S. Pastor, Andrew Brunson, from prison. He has been hel… https://t.co/sdz9MzzzSU
+Created Thu Jul 19 01:35:33 +0000 2018
+
+Tweet 12: RT @SecAzar: .@POTUS has made clear that it’s time for drug companies to put American Patients First — Novartis halting its prescription dr…
+Created Wed Jul 18 21:34:12 +0000 2018
+
+Tweet 13: The two biggest opponents of ICE in America today are the Democratic Party and MS-13!
+Created Wed Jul 18 21:30:19 +0000 2018
+
+Tweet 14: Thank you to Congressman Kevin Yoder! He secured $5 BILLION for Border Security. Now we need Congress to support. K… https://t.co/Q36pGj6J0O
+Created Wed Jul 18 21:29:06 +0000 2018
+
+Tweet 15: Brian Kemp is running for Governor of the great state of Georgia. The Primary is on Tuesday. Brian is tough on crim… https://t.co/5DYJn0DTgt
+Created Wed Jul 18 19:25:30 +0000 2018
+
+Tweet 16: RT @SecretService: In Remembrance: Special Agent Nole E. Remagen. This week the U.S. Secret Service lost one of America’s finest. We ask fo…
+Created Wed Jul 18 17:12:53 +0000 2018
+
+Tweet 17: 3.4 million jobs created since our great Election Victory - far greater than ever anticipated, and only getting bet… https://t.co/d9mAL67P5X
+Created Wed Jul 18 11:33:34 +0000 2018
+
+Tweet 18: Some people HATE the fact that I got along well with President Putin of Russia. They would rather go to war than se… https://t.co/jVlP0J9l6n
+Created Wed Jul 18 11:27:59 +0000 2018
+
+Tweet 19: “A lot of Democrats wished they voted for the Tax Cuts because the economy is booming - we could have 4% growth now… https://t.co/EKYed829Bb
+Created Wed Jul 18 11:03:05 +0000 2018
+
+-------------------------------------------
+
+Command run: movie-this the little mermaid
+
+Movie Title: The Little Mermaid
+Release Year: 1989
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, French
+Plot: A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.
+Actors: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+
+-------------------------------------------
+
+Command run: spotify-this-song sweet caroline
+
+Artist(s): Neil Diamond
+Song Title: Sweet Caroline - Single Version
+Album: In My Lifetime
+Full Track Link: https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS
+Preview Link: null
+
+-------------------------------------------
+
+Command run: spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Album: Millennium
+Full Track Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=be9bb8e4bde647c69ac6366aabb745cd
+
+-------------------------------------------
