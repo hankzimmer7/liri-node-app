@@ -95,3 +95,43 @@ Full Track Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
 Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=be9bb8e4bde647c69ac6366aabb745cd
 
 -------------------------------------------
+
+Command run: spotify-this-song 
+
+Artist(s): Ace of Base
+Song Title: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Full Track Link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Preview Link: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=be9bb8e4bde647c69ac6366aabb745cd
+
+-------------------------------------------
+
+Command run: spotify-this-song 
+
+Artist(s): Ty Dolla $ign
+Song Title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Full Track Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=be9bb8e4bde647c69ac6366aabb745cd
+
+-------------------------------------------
+
+Command run: spotify-this-song 
+
+Artist(s): Ace of Base
+Song Title: All That She Wants
+Album: Happy Nation (Remastered)
+Full Track Link: https://open.spotify.com/track/12BbMJsJi65mxneq6c9Lm7
+Preview Link: https://p.scdn.co/mp3-preview/ac41624323eaeb9f3f7b2c5ec585790cb1f9c8a8?cid=be9bb8e4bde647c69ac6366aabb745cd
+
+-------------------------------------------
+
+Command run: spotify-this-song 
+
+Artist(s): Pictomusic
+Song Title: The Sign (Instrumental Karaoke Version) - Originally Performed By Ace of Base
+Album: The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+Full Track Link: https://open.spotify.com/track/7JFDXWfhzbZcdSqY0YXDOJ
+Preview Link: https://p.scdn.co/mp3-preview/8ce1ccfb237eda5132d25222ad37d16b32c088b7?cid=be9bb8e4bde647c69ac6366aabb745cd
+
+-------------------------------------------
